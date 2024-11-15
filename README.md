@@ -14,12 +14,18 @@ Link de referencia: https://code.visualstudio.com/docs/python/tutorial-django
 # Paso 2-Abrir termianl en code
 ![image](https://github.com/user-attachments/assets/7382feb9-cf83-4d1a-bed9-90bc229da67b)
 - dale click a los 3 puntos y dusca donde dose terminal y dale click a donde dise nueva terminal
-# Paso 3
-
-# Paso 4
-
-# Paso 5
-
-# Paso 6
+  
+# Paso 3-py -3 -m venv .venv
+![image](https://github.com/user-attachments/assets/2115a3c7-3dd0-4ee4-8b5e-51ac3c91f7c1)
+- copea el py -3 -m venv .venv y pegalo en terminal
+# Paso 4-.venv\scripts\activate
+![image](https://github.com/user-attachments/assets/28fa12e7-2bfb-4037-801e-845e18b1e6a8)
+- has lo mismo pero con el .venv\scripts\activate y alladele el .bat
+# Paso 5-interptere
+![image](https://github.com/user-attachments/assets/1b0bd3a5-8b26-4756-b9d4-7a3e1bbe8722)
+![image](https://github.com/user-attachments/assets/5b3bb8c4-ce85-4890-8cbd-b9627f86bf59)
+- presiona F1 y busca la opcion de python interprete dale click y elige una de las opciones, pero se recomeinda la que dise recomendada.
+  
+# Paso 6-
 
 # Paso 7
