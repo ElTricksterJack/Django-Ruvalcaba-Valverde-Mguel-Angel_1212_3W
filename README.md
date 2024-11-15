@@ -25,7 +25,8 @@ Link de referencia: https://code.visualstudio.com/docs/python/tutorial-django
 ![image](https://github.com/user-attachments/assets/1b0bd3a5-8b26-4756-b9d4-7a3e1bbe8722)
 ![image](https://github.com/user-attachments/assets/5b3bb8c4-ce85-4890-8cbd-b9627f86bf59)
 - presiona F1 y busca la opcion de python interprete dale click y elige una de las opciones, pero se recomeinda la que dise recomendada.
-  
+
 # Paso 6-
+![image](https://github.com/user-attachments/assets/010e5758-3002-4b96-8e53-7a8ec01eaff7)
 
 # Paso 7
